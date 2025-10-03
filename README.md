@@ -38,3 +38,4 @@ The analysis is based on the **HRDataset_v14 (2023)**, which contains employee-l
 ## ✅ Conclusion
 
 This HR Analytics project demonstrates how **data visualization and analytics** can enhance HR management by offering **clear, actionable insights** into workforce trends. By using Tableau dashboards, HR leaders can continuously monitor progress, set benchmarks, and make **evidence-based decisions** to improve retention, diversity, and recruitment efficiently.
+![Image Alt](https://github.com/ramyaa0805/Human-resources/blob/463b379ba5fd5cbc30dfb7fb050d77549fa21c16/WhatsApp%20Image%202025-10-03%20at%2022.39.26_f9e2ecd1.jpg)
